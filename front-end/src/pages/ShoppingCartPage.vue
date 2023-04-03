@@ -1,5 +1,5 @@
 <template>
-<h1>Shopping card page</h1>
+<h1>Shopping cart page</h1>
 </template>
 <script>
 export default {
